@@ -9,8 +9,7 @@
 
 body {
 	background: url(image/fone.jpg) 100% 100% no-repeat;
-	background-size: cover;
-}
+	background-size: cover;}
 .fone {
 	height: 700px;
 	background: black;
